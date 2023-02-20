@@ -1,0 +1,5 @@
+Some data for storing in text file
+additional text
+Line A
+Line B
+Line C
